@@ -1,0 +1,40 @@
+.jumbotron /*makes top red */
+{
+    background-color: maroon;
+    color: white;
+}
+
+.inputHeader /* formats all the inputs*/
+{
+    text-align: left;
+    padding-left: 100px;
+}
+
+.btnRow /*formats the buttons to the left */
+{
+    padding-left: 100px;
+}
+
+.btnBottom /*controls the spacing and size */
+{
+    margin-top: 20px;
+}
+
+label /* size and spacing of all the labels so they are not jagged*/
+{
+    display: inline-block;
+    clear: left;
+    width: 100px;
+    text-align: right;
+}
+
+input /*using inline-block to display input*/
+{
+    display: inline-block;
+}
+
+.coverArt /* set cover art dimensions that auto resize height*/
+{
+    max-width: 250px;
+    height: auto;
+}
