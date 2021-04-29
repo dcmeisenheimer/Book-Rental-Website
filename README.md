@@ -6,9 +6,9 @@ Rent, return, edit, delete, and create new books in the library.
 
 This is my first time practing html and javascript.
 I used the BootStrap v4.6 Started Code and edited to my liking.
-The website allows users to see all avaliable books. 
+The website allows users to see all available books. 
 Create new books into the library.
-Edit, delete, rent, and return current books in the libray.
+Edit, delete, rent, and return current books in the library.
 
 ## Getting Started
 
